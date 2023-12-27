@@ -11,6 +11,8 @@
     "prepare": "npm run build"
   },
   "dependencies": {
+    "@sisgea/authz-client": "github:sisgha/sisgea-authz-client",
+    "nice-grpc": "^2.1.7"
   },
   "devDependencies": {
     "@nestjs/common": "^10.2.7",
